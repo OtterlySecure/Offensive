@@ -27,17 +27,17 @@ description: >-                        # used by seo meta and the atom feed
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://otterlyoffensive.com'
 
-github:
-  username: roobixx             # change to your github username
+#github:
+  #username: roobixx             # change to your github username
 
-twitter:
-  username: roobixx            # change to your twitter username
+#twitter:
+  #username: roobixx            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Chaos Otter
-  email: tim@roobixx.com            # change to your email address
+  email: chaos@otterlyoffensive.com            # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username      # change to your twitter homepage
