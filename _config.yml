@@ -17,12 +17,10 @@ timezone: America/Chicago
 # --------------------------
 title: Otterly Offensive                          # the main title
 
-tagline: Otter chaios shall insue   # it will display as the sub-title
+tagline: Otter chaos shall insue   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  A foray into Offensive security, programming, development, security, red teaming, and penetration testing.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://otterlyoffensive.com'
