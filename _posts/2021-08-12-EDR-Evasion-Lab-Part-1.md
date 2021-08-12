@@ -4,7 +4,7 @@ title: "EDR Evasion Lab: Part 1"
 Author: Chaos Otter
 date: 2021-08-12
 categories: EDR, Evasion
-tags: implant. edr, evasion, red team     # TAG names should always be lowercase
+tags: implant. edr, evasion, redteam     # TAG names should always be lowercase
 # image:
 #   src: /assets/img/favicons/eac2.png
 #   width: 1200   # in pixels
@@ -14,7 +14,7 @@ tags: implant. edr, evasion, red team     # TAG names should always be lowercase
 
 # EDR Evasion Lab: Part 1
 
-### Genesis
+## Genesis
 
 In January 2021, I finally passed Offensive Security's OSCE course and exam after a couple of failed attempts for various. While this was super exciting to have tackled this milestone in my personal development, it did leave me wanting more, but I did not know what exactly. Exploit dev was never something that I was really interested in and honestly was scared to tackle for the longest time. While I enjoyed learning the process to be successful in the OSCE exam, I never felt like I would really use the skills in my day job, mostly due to the techniques being very outdated by today's standards. That being said, it did push me down the path I have chosen to take for 2021 in terms of personal skill development.
 
@@ -33,7 +33,7 @@ How much extra work? Hmmm...
 
 ...and this is where the rabbit hole started.
 
-### The Needful
+## The Needful
 
 Early on in this process I was just testing my work against Windows Defender to see what worked and what didn't and that is an okay place to start, but I don't believe that it will take you very far, nor lead to much success. I knew I needed a better proving ground, if you will, to put my work to the test and see what I could learn from it in the process.
 
