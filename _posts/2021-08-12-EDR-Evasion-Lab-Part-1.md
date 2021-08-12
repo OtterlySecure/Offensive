@@ -5,11 +5,10 @@ Author: Chaos Otter
 date: 2021-08-12
 categories: EDR, Evasion
 tags: implant. edr, evasion, redteam     # TAG names should always be lowercase
-# image:
-#   src: /assets/img/favicons/eac2.png
-#   width: 1200   # in pixels
-#   height: 540 # in pixels
-#   alt: image alternative text
+image:
+  src: /assets/img/EDR_lab_header.png
+  width: 1200   # in pixels
+  height: 540 # in pixels
 ---
 
 # EDR Evasion Lab: Part 1
